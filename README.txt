@@ -18,3 +18,11 @@ Reference: https://docs.aws.amazon.com/codedeploy/latest/userguide/instances-ec2
 https://docs.aws.amazon.com/codedeploy/latest/userguide/resource-kit.html#resource-kit-bucket-names
 
 workflows: https://github.com/ThanHtutPC/aws_CICD/blob/main/Untitled-2024-05-23-0158.png
+
+Recommanded 
+Please read the README.txt file first.
+
+Create the ec2 instance and install the requirement application. 
+Deploy the pipeline and attach with github(version2)
+Deploy the CodeDeploy and create the development group.
+call your website EX. (your_ec2_public_IP)

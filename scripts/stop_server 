@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# Check if the httpd process is running
+if pgrep httpd > /dev/null; then
+    # Stop the httpd service
+    sudo service httpd stop        
+fi
